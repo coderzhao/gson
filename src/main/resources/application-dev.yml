@@ -1,0 +1,7 @@
+server:
+  port: 9990
+sdk:
+  host_ip: 192.168.10.132
+  port: 8000
+  token: GxSW-JKSD
+  version: v0
